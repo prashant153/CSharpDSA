@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{ACF577A0-5637-403F-857E-B7B714F04F14}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NodeChains/Program.cs">
+    <Files>
+      <File FileName="NodeChains/Program.cs" Line="1" Column="1" />
+      <File FileName="NodeChains/Node.cs" Line="10" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.NodeChains PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
