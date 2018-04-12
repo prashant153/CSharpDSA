@@ -1,0 +1,11 @@
+/Users/prashantkumar/Projects/CSharpDSA/PrimeNumber/PrimeNumber/bin/Debug/netcoreapp2.0/PrimeNumber.deps.json
+/Users/prashantkumar/Projects/CSharpDSA/PrimeNumber/PrimeNumber/bin/Debug/netcoreapp2.0/PrimeNumber.runtimeconfig.json
+/Users/prashantkumar/Projects/CSharpDSA/PrimeNumber/PrimeNumber/bin/Debug/netcoreapp2.0/PrimeNumber.runtimeconfig.dev.json
+/Users/prashantkumar/Projects/CSharpDSA/PrimeNumber/PrimeNumber/bin/Debug/netcoreapp2.0/PrimeNumber.dll
+/Users/prashantkumar/Projects/CSharpDSA/PrimeNumber/PrimeNumber/bin/Debug/netcoreapp2.0/PrimeNumber.pdb
+/Users/prashantkumar/Projects/CSharpDSA/PrimeNumber/PrimeNumber/obj/Debug/netcoreapp2.0/PrimeNumber.csprojResolveAssemblyReference.cache
+/Users/prashantkumar/Projects/CSharpDSA/PrimeNumber/PrimeNumber/obj/Debug/netcoreapp2.0/PrimeNumber.csproj.CoreCompileInputs.cache
+/Users/prashantkumar/Projects/CSharpDSA/PrimeNumber/PrimeNumber/obj/Debug/netcoreapp2.0/PrimeNumber.AssemblyInfoInputs.cache
+/Users/prashantkumar/Projects/CSharpDSA/PrimeNumber/PrimeNumber/obj/Debug/netcoreapp2.0/PrimeNumber.AssemblyInfo.cs
+/Users/prashantkumar/Projects/CSharpDSA/PrimeNumber/PrimeNumber/obj/Debug/netcoreapp2.0/PrimeNumber.dll
+/Users/prashantkumar/Projects/CSharpDSA/PrimeNumber/PrimeNumber/obj/Debug/netcoreapp2.0/PrimeNumber.pdb
