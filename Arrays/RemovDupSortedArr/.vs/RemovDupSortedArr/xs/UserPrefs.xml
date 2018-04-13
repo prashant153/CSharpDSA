@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{E6831218-4131-454C-90C9-FE8849B36A09}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RemovDupSortedArr/Program.cs">
+    <Files>
+      <File FileName="RemovDupSortedArr/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RemovDupSortedArr PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>
