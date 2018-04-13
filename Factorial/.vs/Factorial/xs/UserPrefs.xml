@@ -1,14 +1,14 @@
-﻿<Properties StartupConfiguration="{D37D25AC-0ECA-4014-9538-51AE9CAF5002}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="FibonacciSequence/Program.cs">
+﻿<Properties StartupConfiguration="{EE382441-C56E-4BCD-8DBC-A0D32A60596D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Factorial/Program.cs">
     <Files>
-      <File FileName="FibonacciSequence/Program.cs" Line="12" Column="14" />
+      <File FileName="Factorial/Program.cs" Line="9" Column="43" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.FibonacciSequence PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Factorial PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
 </Properties>

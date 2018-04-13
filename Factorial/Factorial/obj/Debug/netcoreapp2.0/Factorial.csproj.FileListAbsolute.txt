@@ -1,0 +1,11 @@
+/Users/prashantkumar/Projects/CSharpDSA/Factorial/Factorial/bin/Debug/netcoreapp2.0/Factorial.deps.json
+/Users/prashantkumar/Projects/CSharpDSA/Factorial/Factorial/bin/Debug/netcoreapp2.0/Factorial.runtimeconfig.json
+/Users/prashantkumar/Projects/CSharpDSA/Factorial/Factorial/bin/Debug/netcoreapp2.0/Factorial.runtimeconfig.dev.json
+/Users/prashantkumar/Projects/CSharpDSA/Factorial/Factorial/bin/Debug/netcoreapp2.0/Factorial.dll
+/Users/prashantkumar/Projects/CSharpDSA/Factorial/Factorial/bin/Debug/netcoreapp2.0/Factorial.pdb
+/Users/prashantkumar/Projects/CSharpDSA/Factorial/Factorial/obj/Debug/netcoreapp2.0/Factorial.csprojResolveAssemblyReference.cache
+/Users/prashantkumar/Projects/CSharpDSA/Factorial/Factorial/obj/Debug/netcoreapp2.0/Factorial.csproj.CoreCompileInputs.cache
+/Users/prashantkumar/Projects/CSharpDSA/Factorial/Factorial/obj/Debug/netcoreapp2.0/Factorial.AssemblyInfoInputs.cache
+/Users/prashantkumar/Projects/CSharpDSA/Factorial/Factorial/obj/Debug/netcoreapp2.0/Factorial.AssemblyInfo.cs
+/Users/prashantkumar/Projects/CSharpDSA/Factorial/Factorial/obj/Debug/netcoreapp2.0/Factorial.dll
+/Users/prashantkumar/Projects/CSharpDSA/Factorial/Factorial/obj/Debug/netcoreapp2.0/Factorial.pdb
