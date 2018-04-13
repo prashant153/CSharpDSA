@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{4408BBA5-8168-41B2-B2B6-551047FFA794}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="PrimeNumOptimizedNaive/Program.cs">
     <Files>
-      <File FileName="PrimeNumOptimizedNaive/Program.cs" Line="1" Column="1" />
+      <File FileName="PrimeNumOptimizedNaive/Program.cs" Line="42" Column="28" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -10,5 +10,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.PrimeNumOptimizedNaive PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.PrimeNumOptimizedNaive PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
