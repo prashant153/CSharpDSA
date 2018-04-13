@@ -1,0 +1,11 @@
+/Users/prashantkumar/Projects/CSharpDSA/PrimeNumOptimizedNaive/PrimeNumOptimizedNaive/bin/Debug/netcoreapp2.0/PrimeNumOptimizedNaive.deps.json
+/Users/prashantkumar/Projects/CSharpDSA/PrimeNumOptimizedNaive/PrimeNumOptimizedNaive/bin/Debug/netcoreapp2.0/PrimeNumOptimizedNaive.runtimeconfig.json
+/Users/prashantkumar/Projects/CSharpDSA/PrimeNumOptimizedNaive/PrimeNumOptimizedNaive/bin/Debug/netcoreapp2.0/PrimeNumOptimizedNaive.runtimeconfig.dev.json
+/Users/prashantkumar/Projects/CSharpDSA/PrimeNumOptimizedNaive/PrimeNumOptimizedNaive/bin/Debug/netcoreapp2.0/PrimeNumOptimizedNaive.dll
+/Users/prashantkumar/Projects/CSharpDSA/PrimeNumOptimizedNaive/PrimeNumOptimizedNaive/bin/Debug/netcoreapp2.0/PrimeNumOptimizedNaive.pdb
+/Users/prashantkumar/Projects/CSharpDSA/PrimeNumOptimizedNaive/PrimeNumOptimizedNaive/obj/Debug/netcoreapp2.0/PrimeNumOptimizedNaive.csprojResolveAssemblyReference.cache
+/Users/prashantkumar/Projects/CSharpDSA/PrimeNumOptimizedNaive/PrimeNumOptimizedNaive/obj/Debug/netcoreapp2.0/PrimeNumOptimizedNaive.csproj.CoreCompileInputs.cache
+/Users/prashantkumar/Projects/CSharpDSA/PrimeNumOptimizedNaive/PrimeNumOptimizedNaive/obj/Debug/netcoreapp2.0/PrimeNumOptimizedNaive.AssemblyInfoInputs.cache
+/Users/prashantkumar/Projects/CSharpDSA/PrimeNumOptimizedNaive/PrimeNumOptimizedNaive/obj/Debug/netcoreapp2.0/PrimeNumOptimizedNaive.AssemblyInfo.cs
+/Users/prashantkumar/Projects/CSharpDSA/PrimeNumOptimizedNaive/PrimeNumOptimizedNaive/obj/Debug/netcoreapp2.0/PrimeNumOptimizedNaive.dll
+/Users/prashantkumar/Projects/CSharpDSA/PrimeNumOptimizedNaive/PrimeNumOptimizedNaive/obj/Debug/netcoreapp2.0/PrimeNumOptimizedNaive.pdb
