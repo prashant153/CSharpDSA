@@ -9,3 +9,4 @@ public class GFG {
         
 	}
 }
+// Used simple AP formula
