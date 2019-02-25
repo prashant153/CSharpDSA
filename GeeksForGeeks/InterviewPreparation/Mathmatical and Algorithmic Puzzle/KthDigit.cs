@@ -18,5 +18,6 @@ public class GFG {
 	        long k = arr[2];
     		Console.WriteLine(KthValue((long)Math.Pow(a,b),k));
 	    }
+        
 	}
 }
