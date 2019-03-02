@@ -1,40 +1,66 @@
 ﻿using System;
+using System.Numerics;
 
 namespace ProgramTest
 {
-    class Program
+    public class Program 
     {
-        public static void PairCubeCount(long n)
+        static public decimal CalcNr(long n,long r)
         {
-        long count =0 ;
-        //crn = cuberoot of n
-        var num = Math.Pow(n,(double)(1.0/3.0));
-        long crn = (long) Math.Round(num);
-        //create arr of crn terms
-        long[] crnArr = new long[crn];
-        //iterate through the array and find the cube
-        for(long i=1;i<=crn;i++)
-        {
-            for(long j=0;j<=crn;j++)
+            decimal prod = 1;
+            for(long i=0;i<r;i++)
             {
-                // if given condition true then count++
-                if((i*i*i + j*j*j) == n)
+                prod *= n;
+                n--;
+            }
+            return prod;
+        }
+        static public decimal Factorial(long n)
+        {
+            decimal res = 1; 
+            for (long i = 2; i <= n; i++) 
+                res = res * i;
+
+            return res; 
+        }
+        static public void Main () 
+        {
+            long t = 1;
+            for(long tItr=0;tItr<t;tItr++)
+            {	        
+                long n = 778;
+                long r = 116;
+                if(n<r)
                 {
-                    count++;
+                    Console.WriteLine(0);
+                }
+                else if((n==r)||(r==0))
+                {
+                    Console.WriteLine(1);
+                }
+                else if(((n-r)==1) || r==1)
+                {
+                    Console.WriteLine(n);
+                }
+                else
+                {
+                    decimal Nr = 1;
+                    if((n-r)>r)
+                    {
+                        Nr = CalcNr(n,r);
+                    }
+                    else
+                    {
+                        Nr = CalcNr(n,n-r);
+                        r = n-r;
+                    }
+                    decimal rFact = Factorial(r);
+                    if(rFact ==0)
+                        rFact =1;
+                        
+                    Console.WriteLine(Nr/rFact);
                 }
             }
-        }
-        Console.WriteLine(count);
-    }
-	static public void Main () {
-	    // long t = (long) Convert.ToDouble(Console.ReadLine());
-	    long t = 1;
-	    for (int tItr = 0; tItr < t; tItr++) 
-        {
-            // long n = (long) Convert.ToDouble(Console.ReadLine());  
-            long n = 64;
-            PairCubeCount(n);
 	    }
-    }
-    }
+    }    
 }
